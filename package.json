@@ -1,0 +1,28 @@
+{
+  "name": "fintech-dashboard-template",
+  "version": "1.0.0",
+  "description": "Production-ready FinTech dashboard starter — React + TypeScript + Vite + Recharts",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc && vite build",
+    "preview": "vite preview",
+    "typecheck": "tsc --noEmit"
+  },
+  "dependencies": {
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "recharts": "^2.12.7",
+    "react-router-dom": "^6.24.0",
+    "date-fns": "^3.6.0"
+  },
+  "devDependencies": {
+    "@types/react": "^18.3.3",
+    "@types/react-dom": "^18.3.0",
+    "@vitejs/plugin-react": "^4.3.1",
+    "typescript": "^5.5.3",
+    "vite": "^5.3.4"
+  },
+  "keywords": ["fintech", "dashboard", "react", "typescript", "recharts", "swift-tech-co"],
+  "license": "MIT",
+  "homepage": "https://swifttechco.com/services/fintech/fintech-platform"
+}
